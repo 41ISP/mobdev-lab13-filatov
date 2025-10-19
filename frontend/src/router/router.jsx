@@ -8,7 +8,7 @@ import AuthGuard from "../components/AuthGuard"
 import Logout from "../pages/Logout"
 export const router = createBrowserRouter([
     {
-    basename: "mobdev-lab13-filatov"
+    basename: "/mobdev-lab13-filatov/"
     },
     {
         path: "/signup",
